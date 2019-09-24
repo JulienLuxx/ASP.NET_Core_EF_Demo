@@ -12,4 +12,7 @@ namespace CoreDemo.Domain
 
     public enum ArticleTypeStatusEnum
     { }
+
+    public enum CommentStatusEnum
+    { }
 }
