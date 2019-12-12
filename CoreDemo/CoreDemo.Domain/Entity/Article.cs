@@ -6,7 +6,7 @@ using System.Text;
 
 namespace CoreDemo.Domain
 {
-    [Table("ArticleType")]
+    [Table("Article")]
     public class Article
     {
         [Key]
